@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![cjeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjeongmin)](https://github.com/anuraghazra/github-readme-stats)
+[![cjeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjeongmin)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjeongmin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 cjeongmin/cjeongmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
