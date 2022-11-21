@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![cjeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjeongmin)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjeongmin)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjeongmin&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjeongmin&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cjeongmin&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjeongmin&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjeongmin&theme=github&utcOffset=8)
 
 <!---
 cjeongmin/cjeongmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
