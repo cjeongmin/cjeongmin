@@ -4,7 +4,8 @@
   <img width="40%" src="https://raw.githubusercontent.com/cjeongmin/github-stats-transparent/output/generated/overview.svg"/>
   <img width="40%" src="https://raw.githubusercontent.com/cjeongmin/github-stats-transparent/output/generated/languages.svg"/>
   <br/><br/>
-  <p><a href="https://github.com/cjeongmin/github-readme-activity-graph"><img width="79%" src="https://activity-graph.herokuapp.com/graph?username=cjeongmin&bg_color=fafafe&color=000000&line=33333f&custom_title=cjeongmin's+Contribution+Graph&radius=10" alt="github activity graph" /></a></p>
+  <!-- <p><a href="https://github.com/cjeongmin/github-readme-activity-graph"><img width="79%" src="https://activity-graph.herokuapp.com/graph?username=cjeongmin&bg_color=fafafe&color=000000&line=33333f&custom_title=cjeongmin's+Contribution+Graph&radius=10" alt="github activity graph" /></a></p>
+  --->
 </div>
   
 <!---
